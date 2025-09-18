@@ -4,15 +4,15 @@
         <sys_created_by>rohan_saxena@hcltech.com</sys_created_by>
         <sys_created_on>2025-09-18 15:55:59</sys_created_on>
         <sys_id>1caa623d47087210197ad24b116d43d7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_1761963_png_poc_png_application.admin</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_1761963_png_poc_png_application.x_1761963_png_poc.png_user</sys_name>
         <sys_package display_value="PNG POC" source="x_1761963_png_poc">465a2ab547087210197ad24b116d43dd</sys_package>
         <sys_policy/>
         <sys_scope display_value="PNG POC">465a2ab547087210197ad24b116d43dd</sys_scope>
         <sys_security_acl display_value="x_1761963_png_poc_png_application">98aa623d47087210197ad24b116d43d4</sys_security_acl>
         <sys_update_name>sys_security_acl_role_1caa623d47087210197ad24b116d43d7</sys_update_name>
-        <sys_updated_by>rohan_saxena@hcltech.com</sys_updated_by>
-        <sys_updated_on>2025-09-18 15:55:59</sys_updated_on>
-        <sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-18 16:32:37</sys_updated_on>
+        <sys_user_role display_value="x_1761963_png_poc.png_user" name="x_1761963_png_poc.png_user">6fa2bab547487210197ad24b116d439c</sys_user_role>
     </sys_security_acl_role>
 </record_update>

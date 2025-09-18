@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
-        <access/>
+        <access>public</access>
         <actions_access>true</actions_access>
         <alter_access>true</alter_access>
         <caller_access/>
@@ -24,14 +24,14 @@
         <sys_created_by>rohan_saxena@hcltech.com</sys_created_by>
         <sys_created_on>2025-09-18 15:55:57</sys_created_on>
         <sys_id>e39a623d47087210197ad24b116d431e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>PNG Application</sys_name>
         <sys_package display_value="PNG POC" source="x_1761963_png_poc">465a2ab547087210197ad24b116d43dd</sys_package>
         <sys_policy/>
         <sys_scope display_value="PNG POC">465a2ab547087210197ad24b116d43dd</sys_scope>
         <sys_update_name>sys_db_object_e39a623d47087210197ad24b116d431e</sys_update_name>
-        <sys_updated_by>rohan_saxena@hcltech.com</sys_updated_by>
-        <sys_updated_on>2025-09-18 15:55:58</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-18 16:23:51</sys_updated_on>
         <update_access>true</update_access>
         <user_role/>
         <ws_access>true</ws_access>

@@ -2,9 +2,14 @@
     <element db_object_id="e39a623d47087210197ad24b116d431e" label="PNG Application" max_length="40" name="x_1761963_png_poc_png_application" type="collection">
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="4000" name="description" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Application Name" max_length="80" name="application_name" type="string"/>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
         <index name="index">
             <element name="sys_class_name"/>
+        </index>
+        <index name="index2">
+            <element name="user"/>
         </index>
     </element>
 </database>
