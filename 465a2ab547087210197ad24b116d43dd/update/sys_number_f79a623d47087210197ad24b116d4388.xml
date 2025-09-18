@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1761963_png_poc_png_application">x_1761963_png_poc_png_application</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>PNG</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>rohan_saxena@hcltech.com</sys_created_by>
+        <sys_created_on>2025-09-18 15:55:58</sys_created_on>
+        <sys_id>f79a623d47087210197ad24b116d4388</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PNG</sys_name>
+        <sys_package display_value="PNG POC" source="x_1761963_png_poc">465a2ab547087210197ad24b116d43dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PNG POC">465a2ab547087210197ad24b116d43dd</sys_scope>
+        <sys_update_name>sys_number_f79a623d47087210197ad24b116d4388</sys_update_name>
+        <sys_updated_by>rohan_saxena@hcltech.com</sys_updated_by>
+        <sys_updated_on>2025-09-18 15:55:58</sys_updated_on>
+    </sys_number>
+</record_update>
